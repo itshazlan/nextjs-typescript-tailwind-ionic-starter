@@ -132,3 +132,4 @@ Contributions are welcome. Please review our contributing guidelines before subm
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+# nextjs-typescript-tailwind-ionic-starter
